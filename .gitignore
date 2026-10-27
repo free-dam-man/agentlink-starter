@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/
+agentlink.env
+*.log
+.DS_Store
